@@ -1,0 +1,5 @@
+{
+	"xcodebuild_arguments": ["-project", "JazzyTest.xcodeproj", "-scheme", "JazzyTest"],
+	"min_acl": "internal",
+	"theme": "jony"
+}
